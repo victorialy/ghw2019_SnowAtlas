@@ -1,7 +1,8 @@
 # Snow Atlas 
 
 ### General Objective
-Explore reprojection of snow product data, importing datasets to Google Earth Engine, and integrating into snow classification algorithm 
+Reprojection of snow product data (GlobSnow), importing datasets to Google Earth Engine, and integrating into snow classification algorithm. 
+This was a part of UW GeoHack Week 2019. 
 
 ## Collaborators  
 - Maura Rowell
